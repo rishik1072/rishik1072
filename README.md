@@ -1,24 +1,35 @@
-# Rishik Gorakala
+# Welcome To My GitHub Profile !
+<img width="717" height="248" alt="hello" src="https://github.com/user-attachments/assets/ef8d1fd0-420c-4d90-aac7-3b21f7c397e6" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Full+Stack+Engineering+%7C+Computer+Science;Building+Secure+and+Scalable+Systems;Focused+on+Real+World+Impact" />
-</p>
+
 
 ---
+## Know Me Better
 
-## Profile
+Hi, I’m **Rishik Gorakala** from India. 👋
 
-Computer Science student focused on building secure, scalable systems.
-Experience across cybersecurity, backend systems, and full stack application development.
+I work on building **secure and scalable systems**, combining development with cybersecurity ⚙️
+
+Focused on **cybersecurity, full stack development, and real-world applications** 📊
+
+Strong in **Python, JavaScript, and backend systems**, with growing interest in **secure architectures** 🧠
+
+I prefer solutions that are **clean, efficient, and practical for real-world use** 🚀
+
+
 
 ---
 
 ## Areas of Work
 
+<img width="480" height="268" alt="coderman" src="https://github.com/user-attachments/assets/e10376f5-6c0b-43df-ac82-c43996c70ddf" />
+
+
 * Cybersecurity & Ethical Hacking
 * Secure System Design
 * Full Stack Application Development
 * Applied AI in Security
+  
 
 
 
